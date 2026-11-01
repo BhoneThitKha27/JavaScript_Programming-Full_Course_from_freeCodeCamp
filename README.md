@@ -1,30 +1,9 @@
-JavaScript Beginner Course
+JavaScript Programming Full Course
 
-This repository contains my practice files from a JavaScript beginner course.
-I followed along with the lessons, wrote code, and experimented with examples while learning the basics.
+A beginner-friendly JavaScript course by freeCodeCamp.
 
-Some things may look incomplete or confusing — I’ve forgotten parts of what I learned, and that’s okay.
-This repo exists as a reference point so I can revisit concepts and rebuild my understanding over time.
+This repository contains my notes, code exercises, and practice while learning JavaScript fundamentals and improving my programming skills.
 
-Tools Used
+Learning resource: "freeCodeCamp – JavaScript Full Course" (in Description)
 
-VS Code
-
-Google Chrome
-
-What This Repo Is
-
-A learning and practice space
-
-Early JavaScript experiments
-
-Code written while following a beginner course
-
-Notes
-
-This is not a finished project.
-Forgetting things is part of learning — coming back and relearning is the real progress.
-
-Course Source
-
-https://youtu.be/jS4aFq5-91M?si=mTbWSyskqfmTbuOR
+Learning at my own pace, one step at a time.
